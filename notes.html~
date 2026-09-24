@@ -58,9 +58,17 @@
 
 	      <br> <br>
 
-	      <a href="cv.pdf"> <i> Curriculum Vitae </i> </a> <br><br>
+	      <a href="index.html"> <i> Home </i> </a> <br><br>
 
-	      <a href="notes.html"> <i> Notes </i> </a> <br><br>
+	      <a href="fultonsolns.pdf"> <i> Solutions to starred exercises in Fulton's "Algebraic Curves" (WIP) </i> </a> <br> <br>
+
+	      <a href="matsumurasolns.pdf"> <i> Solutions to exercises in Matsumura's "Commutative Ring Theory" (WIP) </i> </a> <br> <br>
+
+	      <a href="6441paper.pdf"> <i> Elementary moduli spaces by example </i> </a> <br> <br>
+    
+	      <a href="4803slides.pdf"> <i> Automatically proving theorems in Macaulay2 (slides) </i> </a> <br> <br>
+
+	      <a href="F2024DRPslides.pdf"> <i> Polytopes, amoebas, and tropical curves</i> </a> <br> <br>
 
 	    </font>
 
